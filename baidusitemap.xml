@@ -4,14 +4,31 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/03/23/%E5%AD%A6%E7%BC%96%E7%A8%8B%EF%BC%8C%E5%85%88%E7%9F%A5%E8%A7%84%E8%8C%83/</loc>
-    <lastmod>2018-03-22T16:21:54.563Z</lastmod>
+    <loc>http://yoursite.com/2018/03/23/%E5%BB%BA%E7%AB%8B%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E7%A4%BE%E5%8C%BA-%E3%80%90GitHub-%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97%E8%AF%91%E6%96%87%E3%80%91/</loc>
+    <lastmod>2018-03-23T16:25:26.782Z</lastmod>
     <data>
         <display>
-        <title>学编程，先知规范</title>
-        <pubTime>2018-03-22T16:19:44.000Z</pubTime>
+        <title>建立受欢迎的社区 【GitHub 开源贡献指南译文】</title>
+        <pubTime>2018-03-23T15:53:45.000Z</pubTime>
         
-        <tag>编程规范</tag>
+        <tag>GitHub</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/03/23/%E5%BC%80%E5%90%AF%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%90GitHub-%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97%E8%AF%91%E6%96%87%E3%80%91/</loc>
+    <lastmod>2018-03-23T15:53:09.290Z</lastmod>
+    <data>
+        <display>
+        <title>开启一个开源项目【GitHub 开源贡献指南译文】</title>
+        <pubTime>2018-03-23T15:29:52.000Z</pubTime>
+        
+        <tag>GitHub</tag>
          
          
            
@@ -22,7 +39,7 @@
     
   <url>
     <loc>http://yoursite.com/2018/03/23/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2018-03-22T16:13:51.747Z</lastmod>
+    <lastmod>2018-03-23T15:42:46.897Z</lastmod>
     <data>
         <display>
         <title>设计模式笔记——观察者模式</title>
@@ -39,7 +56,7 @@
     
   <url>
     <loc>http://yoursite.com/2018/03/22/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%AD%96%E7%95%A5%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2018-03-22T15:58:37.736Z</lastmod>
+    <lastmod>2018-03-23T15:42:39.014Z</lastmod>
     <data>
         <display>
         <title>设计模式笔记——策略设计模式</title>
@@ -56,7 +73,7 @@
     
   <url>
     <loc>http://yoursite.com/2018/03/22/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E5%8D%95%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2018-03-22T15:49:58.368Z</lastmod>
+    <lastmod>2018-03-23T15:42:15.638Z</lastmod>
     <data>
         <display>
         <title>设计模式笔记——单例设计模式</title>
@@ -72,8 +89,25 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/03/23/%E5%AD%A6%E7%BC%96%E7%A8%8B%EF%BC%8C%E5%85%88%E7%9F%A5%E8%A7%84%E8%8C%83/</loc>
+    <lastmod>2018-03-23T15:42:00.614Z</lastmod>
+    <data>
+        <display>
+        <title>学编程，先知规范</title>
+        <pubTime>2018-03-22T16:19:44.000Z</pubTime>
+        
+        <tag>编程规范</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/03/21/%E5%B0%8F%E7%99%BD%E5%92%8C%E8%80%81%E5%A6%88%E8%81%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/</loc>
-    <lastmod>2018-03-22T15:17:06.455Z</lastmod>
+    <lastmod>2018-03-23T15:41:40.175Z</lastmod>
     <data>
         <display>
         <title>小白和老妈聊计算机组成原理</title>
