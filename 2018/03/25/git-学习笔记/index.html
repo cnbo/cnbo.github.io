@@ -63,10 +63,9 @@
 </ul>
 <h3 id="提交和更新远程仓库"><a href="#提交和更新远程仓库" class="headerlink" title="提交和更新远程仓库"></a>提交和更新远程仓库</h3><p>创建好仓库后，我们不能就让它这么空着，那就让我们开始发挥它的价值。首先输入下面的命令在仓库所在的文件下创建一个 test.md 文件。<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">touch test.md</span><br></pre></td></tr></table></figure></p>
 <p>这个时候我们的仓库就不再空虚了，真的吗？我可以负责任的说：这时仓库依旧空虚寂寞冷，不信我们来输入下面的命令一探究竟。<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git status</span><br></pre></td></tr></table></figure></p>
-<p>输入上面的命令后，我们将看到下图的效果。</p>
-<div align="center"><img src=""></div>
-
-
+<p>输入上面的命令后，我们将看到图 1 所示的效果。</p>
+<p><div align="center"><img src="https://github.com/cnbo/cnbo.github.io/blob/master/img/git-status.png?raw=true"></div><center>图 1</center></p>
+<p>我们在图 1 中发现 test.md 被标记成了红色，而且提示我们使用 git add <file> 的命令，这样我们就可以 commit 了。如果不信，我们来是用下面这条命令试试看。<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git push origin master</span><br></pre></td></tr></table></figure></file></p>
 <h3 id="分支的相关操作"><a href="#分支的相关操作" class="headerlink" title="分支的相关操作"></a>分支的相关操作</h3><h3 id="解决冲突"><a href="#解决冲突" class="headerlink" title="解决冲突"></a>解决冲突</h3><h3 id="修改历史提交"><a href="#修改历史提交" class="headerlink" title="修改历史提交"></a>修改历史提交</h3><h3 id="保护现场"><a href="#保护现场" class="headerlink" title="保护现场"></a>保护现场</h3><h3 id="工作流——Feature-Branching"><a href="#工作流——Feature-Branching" class="headerlink" title="工作流——Feature Branching"></a>工作流——Feature Branching</h3><h2 id="Git-常用命令速查表"><a href="#Git-常用命令速查表" class="headerlink" title="Git 常用命令速查表"></a>Git 常用命令速查表</h2><table>
 <thead>
 <tr>
