@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-29T15:44:48.944Z</updated>
+  <updated>2018-03-30T14:01:15.708Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,37 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>工作后的第一次面试</title>
-    <link href="http://yoursite.com/2018/03/29/%E5%B7%A5%E4%BD%9C%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%9D%A2%E8%AF%95/"/>
-    <id>http://yoursite.com/2018/03/29/工作后的第一次面试/</id>
-    <published>2018-03-29T15:01:18.000Z</published>
-    <updated>2018-03-29T15:44:48.944Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天是 2018 年 3 月 29 日，我参加了工作以来的第一次面试。我现在的公司是一家养老型的公司，领导和同事都非常的好。我父母都还在工作，我不能就开始养老。不管找工作的过程和结果如何，我都要努力去搏一把，我将在下周一正式递交我的辞呈。</p><p>前面是辞职的理由，那么现在总结一下今天的面试：</p><ul><li>我的实力一般，技术面试官认为我资历比较浅，HR 小姐姐用比较委婉的方式拒绝了我。</li><li>不论是在工作中还是在生活中，都应该做一个真诚的人，这是我一直以来都在坚持的。HR 小姐姐说现在找 Java 工作的人非常多，而且有很多人造假简历，他们都被假简历伤透了。我既能理解 HR 们的感受，也能那些造假简历的求职者的感受。不论我的简历被多少家公司拒绝，也不管有很多少人因一份假简历获得了一份不错的工作，我会始终坚持我的做法。我参加校园招聘的时候，我就是大部分求职者中的一股清流，因为在笔试环节有太多求职者玩点小心思，其中不乏 985 和 211 的学生。我没有在笔试遇到问题的时候耍小心思，因为我觉得找工作和女朋友是同一个道理，双方都应该坦诚相待。人总该去坚持些什么，而不是随大流。</li><li>技术官问了我以下的问题：<ul><li>过去一年的工作内容</li><li>讲一讲 Spring</li><li>因为我现在的工作内容是写公司的人力招募系统，所以面试官问了我：如何处理历年的简历，时间久了会堆积大量的垃圾简历，但又不能删除，因为同一个求职者在之后的某个时间又会投简历</li><li>如何配置 Tomcat，项目是如何部署的</li><li>最后我聊了下我对 Hibernate 的一点看法</li></ul></li></ul><p>虽然这次面试考察的内容非常简单，但这也体现了我自身实力的不足，我需要学习的东西还有很多。很感谢今天面试我的 HR 和 技术面试官。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天是 2018 年 3 月 29 日，我参加了工作以来的第一次面试。我现在的公司是一家养老型的公司，领导和同事都非常的好。我父母都还在工作，我不能就开始养老。不管找工作的过程和结果如何，我都要努力去搏一把，我将在下周一正式递交我的辞呈。&lt;/p&gt;
-&lt;p&gt;前面是辞职的理由，那
-      
-    
-    </summary>
-    
-    
-      <category term="面试" scheme="http://yoursite.com/tags/%E9%9D%A2%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title></title>
     <link href="http://yoursite.com/2018/03/28/%E7%AE%80%E5%8E%86/"/>
     <id>http://yoursite.com/2018/03/28/简历/</id>
     <published>2018-03-28T11:39:36.530Z</published>
-    <updated>2018-03-29T14:58:39.331Z</updated>
+    <updated>2018-03-30T14:01:15.708Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a><font size="4">个人信息</font></h2><ul><li><font size="2">手机：17680328358 微信：cnboDev</font></li><li><font size="2">邮箱：<a href="mailto:hubo17680328358@163.com" target="_blank" rel="noopener">hubo17680328358@163.com</a></font></li><li><font size="2">胡博/男/1995</font></li><li><font size="2">本科/湖南工程学院/通信工程</font></li><li><font size="2">工作年限：1 年</font></li><li><font size="2">GitHub：<a href="https://github.com/cnbo" target="_blank" rel="noopener">https://github.com/cnbo</a> Blog：<a href="http://chaoo.oschina.io/" target="_blank" rel="noopener">http://chaoo.oschina.io/</a></font></li><li><font size="2">期望职位：Java 开发工程师</font></li></ul><h2 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a><font size="4">工作经历</font></h2><h3 id="深圳富士康（2017-4-至今）"><a href="#深圳富士康（2017-4-至今）" class="headerlink" title="深圳富士康（2017.4 ~ 至今）"></a><font size="4">深圳富士康（2017.4 ~ 至今）</font></h3><h5 id="富士康-C-次集团人力招募后台管理系统（2017-9-至今）"><a href="#富士康-C-次集团人力招募后台管理系统（2017-9-至今）" class="headerlink" title="富士康 C 次集团人力招募后台管理系统（2017.9 ~ 至今）"></a><font size="2">富士康 C 次集团人力招募后台管理系统（2017.9 ~ 至今）</font></h5><ul><li><font size="2">项目介绍：此系统用于公司人力招募，主要包含的功能有：公司各部门提交人力需求申请、主管在线签核申请单、简历筛选、笔试成绩确认、笔试题库管理和招聘路线发布。</font></li><li><font size="2">项目用到的技术：Struts2 + Spring + Hibernate + HTML/CSS/Jquery + Oracle + Tomcat</font></li><li><font size="2">本人主要负责的有：</font><br>- <font size="2">负责与人资进行沟通，设计 UE 和编写需求文档</font><br>- <font size="2">负责数据库表设计</font><br>- <font size="2">协调组员完成各自功能模块的开发和测试</font><br>- <font size="2">负责人力需求申请和主管签核模块的前后端开发</font></li></ul><h5 id="富士康-C-次集团绩效考核系统（2017-6-2017-9）"><a href="#富士康-C-次集团绩效考核系统（2017-6-2017-9）" class="headerlink" title="富士康 C 次集团绩效考核系统（2017.6 ~ 2017.9）"></a><font size="2">富士康 C 次集团绩效考核系统（2017.6 ~ 2017.9）</font></h5><ul><li><font size="2">项目描述：用于公司员工绩效考核，功能有：员工绩效信息录入、员工自评、主管考核和考核成绩统计。</font></li><li><font size="2">项目用的技术：Struts1 + Servlet + JSP + Oracle + Tomcat</font></li><li><font size="2">本人主要负责的有：</font><br>- <font size="2">在绩效考核开始前对上一年留下的 Bug 进行修复</font><br>- <font size="2">在绩效考核期间维护系统的稳定运行</font><br>- <font size="2">在考核结束后修复系统事务乱用的问题。</font></li></ul><h2 id="作品"><a href="#作品" class="headerlink" title="作品"></a><font size="4">作品</font></h2><ul><li><font size="2">数字货币价格监控（<a href="https://github.com/cnbo/CoinMonitor/tree/dev/1.0）" target="_blank" rel="noopener">https://github.com/cnbo/CoinMonitor/tree/dev/1.0）</a></font></li></ul><h2 id="技能清单"><a href="#技能清单" class="headerlink" title="技能清单"></a><font size="4">技能清单</font></h2><ul><li><font size="2">框架：Spring/SpringMVC/MyBatis/Hibernate/Struts2</font></li><li><font size="2">数据库：Oracle/MySQL</font></li><li><font size="2">前端：Html/CSS/Jquery/Ajax</font></li><li><font size="2">工具：Git/Maven</font></li><li><font size="2"> 单元测试：Junit</font></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a><font size="4">个人信息</font></h2><ul><li><font size="2">手机：17680328358 微信：cnboDev</font></li><li><font size="2">邮箱：<a href="mailto:hubo17680328358@163.com" target="_blank" rel="noopener">hubo17680328358@163.com</a></font></li><li><font size="2">胡博/男/1995</font></li><li><font size="2">本科/湖南工程学院/通信工程</font></li><li><font size="2">工作年限：1 年</font></li><li><font size="2">GitHub：<a href="https://github.com/cnbo" target="_blank" rel="noopener">https://github.com/cnbo</a> Blog：<a href="http://chaoo.oschina.io/" target="_blank" rel="noopener">http://chaoo.oschina.io/</a></font></li><li><font size="2">期望职位：Java 开发工程师</font></li></ul><h2 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a><font size="4">工作经历</font></h2><h3 id="深圳富士康（2017-4-至今）"><a href="#深圳富士康（2017-4-至今）" class="headerlink" title="深圳富士康（2017.4 ~ 至今）"></a><font size="4">深圳富士康（2017.4 ~ 至今）</font></h3><h5 id="富士康-C-次集团人力招募后台管理系统（2017-9-至今）"><a href="#富士康-C-次集团人力招募后台管理系统（2017-9-至今）" class="headerlink" title="富士康 C 次集团人力招募后台管理系统（2017.9 ~ 至今）"></a><font size="2">富士康 C 次集团人力招募后台管理系统（2017.9 ~ 至今）</font></h5><ul><li><font size="2">项目介绍：此系统用于公司人力招募，主要包含的功能有：公司各部门提交人力需求申请、主管在线签核申请单、简历筛选、笔试成绩确认、笔试题库管理和招聘路线发布。</font></li><li><font size="2">项目用到的技术：Struts2 + Spring + Hibernate + HTML/CSS/Jquery + Oracle + Tomcat</font></li><li><font size="2">本人主要负责的有：</font><br>- <font size="2">负责与人资进行沟通，设计 UE 和编写需求文档</font><br>- <font size="2">负责数据库表设计</font><br>- <font size="2">协调组员完成各自功能模块的开发和测试</font><br>- <font size="2">负责人力需求申请和主管签核模块的前后端开发</font></li></ul><h5 id="富士康-C-次集团绩效考核系统（2017-6-2017-9）"><a href="#富士康-C-次集团绩效考核系统（2017-6-2017-9）" class="headerlink" title="富士康 C 次集团绩效考核系统（2017.6 ~ 2017.9）"></a><font size="2">富士康 C 次集团绩效考核系统（2017.6 ~ 2017.9）</font></h5><ul><li><font size="2">项目描述：用于公司员工绩效考核，功能有：员工绩效信息录入、员工自评、主管考核和考核成绩统计。</font></li><li><font size="2">项目用的技术：Struts1 + Servlet + JSP + Oracle + Tomcat</font></li><li><font size="2">本人主要负责的有：</font><br>- <font size="2">在绩效考核开始前对上一年留下的 Bug 进行修复</font><br>- <font size="2">在绩效考核期间维护系统的稳定运行</font><br>- <font size="2">在考核结束后修复系统事务乱用的问题。</font></li></ul><h2 id="作品"><a href="#作品" class="headerlink" title="作品"></a><font size="4">作品</font></h2><ul><li><font size="2">数字货币价格监控(<a href="https://github.com/cnbo/CoinMonitor/tree/dev/1.0" target="_blank" rel="noopener">https://github.com/cnbo/CoinMonitor/tree/dev/1.0</a>)</font></li></ul><h2 id="技能清单"><a href="#技能清单" class="headerlink" title="技能清单"></a><font size="4">技能清单</font></h2><ul><li><font size="2">框架：Spring/SpringMVC/MyBatis/Hibernate/Struts2</font></li><li><font size="2">数据库：Oracle/MySQL</font></li><li><font size="2">前端：Html/CSS/Jquery/Ajax</font></li><li><font size="2">工具：Git/Maven</font></li><li><font size="2"> 单元测试：Junit</font></li></ul>]]></content>
     
     <summary type="html">
     
